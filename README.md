@@ -54,3 +54,7 @@ visualizations to perform bottom up analysis.
 **Bottom Up Analysis**
 1. Duplicate above dashboard and change interactions
 2. Replace Transactional View Donut and Scatter Plot with Tree map
+
+## Live Dashboard  
+SuperStoreSales Dashboard: https://www.novypro.com/project/superstoresales---powerbi-capstone-project-2  
+USA Admission Dashboard: https://www.novypro.com/project/usa-admission---powerbi-capstone-project-2
